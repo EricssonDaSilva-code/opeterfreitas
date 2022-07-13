@@ -18,13 +18,13 @@
 </p>
 
 <p align="left">
-  <a href="mailto:opeterfreitas@gmail.com" target="_blank" alt="Gmail">
+  <a href="mailto:opeterfreitas@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=opeterfreitas@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/opeterfreitas" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/opeterfreitas" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeterfreitas" /></a>
 
-  <a href="https://wa.me/5534997796582" target="_blank" alt="WhatsApp">
+  <a href="https://wa.me/5534997796582" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5534997796582"/></a>
 </p>  
 
